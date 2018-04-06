@@ -51,6 +51,7 @@ All changes should be developed on a feature branch, in order to keep them separ
 To create a new feature branch:
 
 ```bash
+git fetch gwastro
 git checkout -b my-new-feature gwastro/master
 ```
 
