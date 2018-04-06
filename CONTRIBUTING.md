@@ -34,7 +34,7 @@ If you already have a fork of GWIn, and are starting work on a new project you c
 1. Link your fork to the main repository:
 
     ```bash
-    cd lalsuite
+    cd gwin
     git remote add upstream https://github.com/gwastro/gwin.git
     ```
 
